@@ -1,0 +1,10 @@
+# Material de trabalho (briefing, prompts, referências com imagens de terceiros)
+docs/
+
+# Sistema e editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.claude/
+.vercel/
